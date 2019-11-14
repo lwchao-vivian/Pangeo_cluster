@@ -16,5 +16,5 @@ Features
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
 .. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/lwchao_vivian/pangeo_cluster/master
+    :target: http://binder.pangeo.io/v2/gh/lwchao_vivian/Pangeo_cluster/master
 
